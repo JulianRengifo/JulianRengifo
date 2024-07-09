@@ -1,5 +1,7 @@
 ## Hi there 👋
-# <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="100"/> Bienvenid@ al GitHub de Julian Rengifo
+
+# <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="100" style="vertical-align: middle;"/> Bienvenid@ al GitHub de Julian Rengifo
+
 
 ## Contactame
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-e-rengifo-cortes/)
@@ -15,6 +17,8 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
+
+## Estadísticas
 
 ![Julian Regifo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianRengifo&show_icons=true&theme=yeblu)
 
